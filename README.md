@@ -12,3 +12,16 @@ never pay for shitty scripts like that.
 purpose, reason: the motivation of this operation was FREEing information because there is no uncommong source codes for lua that would help you learning how to script for Da Hood.
 
 tldr; educational purposes only and only.
+
+what it includes:
+
+Nearest part to cursor
+Resolver
+Checks
+Hitchance
+Shake
+Smoothness
+Air Check
+AA Detector
+
+by far
